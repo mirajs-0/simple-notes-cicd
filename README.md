@@ -12,4 +12,4 @@ https://YOUR-APP-NAME.onrender.com
 - Semantic versioning
 - Discord notifications
 - Branch protection
-- Periodic health checks
+- Periodic health checksreviewed by mluukkai
