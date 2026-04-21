@@ -9,11 +9,16 @@
     "test": "jest",
     "lint": "eslint ."
   },
+  "jest": {
+    "testEnvironment": "node",
+    "testMatch": ["**/tests/**/*.test.js"]
+  },
   "dependencies": {
     "express": "^4.17.1"
   },
   "devDependencies": {
-    "eslint": "^8.0.0",
+    "@eslint/js": "^9.0.0",
+    "eslint": "^9.0.0",
     "jest": "^29.0.0",
     "nodemon": "^2.0.0",
     "supertest": "^6.0.0"
