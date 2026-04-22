@@ -12,7 +12,7 @@ URL for exercises: https://github.com/mirajs-0/open-cicd
 
 # Exercise 21 - Notes App CI/CD
 
-URL: https://github.com/mirajs-0/simple-notes-cicd
+URL for app: https://github.com/mirajs-0/simple-notes-cicd
 
 Live URL: https://simple-notes-cicd.onrender.com
 
