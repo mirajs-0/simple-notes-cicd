@@ -4,7 +4,7 @@ A simple notes application with a full CI/CD pipeline built as part of Full Stac
 
 ## Deployed Application
 
-Live URL: https://open-cicd.onrender.com
+Live URL for Pokedex: https://open-cicd.onrender.com
 
 ## Github Repo for Exercises:
 
@@ -12,7 +12,7 @@ URL: https://github.com/mirajs-0/open-cicd
 
 # Exercise 21 - Notes App CI/CD
 
-URL for app: https://github.com/mirajs-0/simple-notes-cicd
+URL: https://github.com/mirajs-0/simple-notes-cicd
 
 Live URL: https://simple-notes-cicd.onrender.com
 
