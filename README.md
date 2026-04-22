@@ -23,4 +23,4 @@ Live URL: https://simple-notes-cicd.onrender.com
 - Semantic versioning
 - Discord notifications
 - Branch protection
-- Periodic health checksreviewed by mluukkai
+- Periodic health checks
