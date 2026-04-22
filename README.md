@@ -8,7 +8,7 @@ Live URL: https://open-cicd.onrender.com
 
 ## Github Repo for Exercises:
 
-URL for exercises: https://github.com/mirajs-0/open-cicd
+URL: https://github.com/mirajs-0/open-cicd
 
 # Exercise 21 - Notes App CI/CD
 
